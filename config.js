@@ -4,7 +4,7 @@ import { watchFile, unwatchFile, readFileSync } from 'fs'
 import moment from "moment-timezone"
 
 async function loadConfig() {
-global.owner = [['+6285766450735', 'jhnspntx', true] // [number, dia creator/owner?, dia developer?]
+global.owner = [['+6285766450735', 'test', true] // [number, dia creator/owner?, dia developer?]
 // Put your number here
 global.mods = ['6285766450735'] // Want some help? nothing
 global.prems = ['6285766450735', '6285766450735' // Premium user has unlimited limit
@@ -76,16 +76,16 @@ global.htka = '』––––––' // Hiasan Title  (KANAN)
 global.marin = "admin123"
 global.chara = "mOuKD3RdUXdqnaRRKjm8An-VwdRmJyD4KdCikYEwHEM"
 //===========> BAGIAN TEXT <==============//
-global.namaowner = 'JhnsPntx'
-global.me = 'Created By JhnsPntx'
-global.ownerbot = "6285767373425"
-global.nomorbot = '6289637133848'
+global.namaowner = 'test'
+global.me = 'Created By test'
+global.ownerbot = "6285766450735"
+global.nomorbot = '0'
 global.namebot = 'Kitagawa Marin'
 global.wait = "_In progress, please wait..._"
 global.yt = "bit.ly/Papah-Chan"
 //WAJIB DIUBAH SESUAI SAMA DI OWNER-CREATEPANEL.JS
-global.egg = "YOUR EGG PANEL"
-global.location3 = "YOUR LOCATION PANEL"
+global.egg = "EGG wa bot"
+global.location3 = "sg"
 //JIKA BINGUNG HUBUNGI OWNER SC
 global.str = '-------------------------------'
 global.l = '「'
